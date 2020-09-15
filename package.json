@@ -1,0 +1,13 @@
+{
+  "name": "kassino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "eptaccio <eptaccio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
