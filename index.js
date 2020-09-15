@@ -12,6 +12,7 @@ client.once('ready', () => {
 const play = connection =>
   connection
     .play('./kassino.mp4')
+    .on('finish', () => play(connection))
 
 client.on('message', async message => {
   if (message.author.bot) return
@@ -36,7 +37,6 @@ client.on('message', async message => {
     }
 
     play(connection)
-      .on('finish', () => play(connection))
 
     return message.channel.send('aaaa')
   }
