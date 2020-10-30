@@ -4,14 +4,6 @@ Bem, esse é um bot para Discord que fica tocando uma música (por 24 horas) do 
 
 O que pode dar errado?!
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/eptaccio/kasino-sabadaco-discord/blob/master/kassino.mp4" type="video/mp4">
-  </video>
-</figure>
-
-_Vídeo da participação do Kasino no programa Sabadaço_
-
 ## Motivação
 
 Kasino é algo bem antigo, lá de 2003, e pelo que vi eles ainda estão na [ativa](https://entretenimento.uol.com.br/noticias/redacao/2020/05/27/kasino-do-hit-cant-get-over-anuncia-retorno.htm). Eles são os criadores de um dos hits que mais bombaram na adolescencia de muita gente, a música "**Can't Get Over**" _(a mesma do vídeo)_.
