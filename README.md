@@ -4,11 +4,7 @@ Bem, esse é um bot para Discord que fica tocando uma música (por 24 horas) do 
 
 O que pode dar errado?!
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/eptaccio/kasino-sabadaco-discord/blob/master/kassino.mp4" type="video/mp4">
-  </video>
-</figure>
+<video src="https://github.com/dotenorio/kasino-sabadaco-discord/blob/master/kassino.mp4?raw=true" width="320" height="200" controls preload></video>
 
 _Vídeo da participação do Kasino no programa Sabadaço_
 
