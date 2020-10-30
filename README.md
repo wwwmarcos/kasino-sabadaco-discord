@@ -2,7 +2,7 @@
 
 Bem, esse é um bot para Discord que fica tocando uma música (por 24 horas) do grandioso [Kasino](https://pt.wikipedia.org/wiki/Kasino), que é nada mais nada menos do que projeto de dance music mais famoso do Brasil, em sua participação no programa de auditório [Sabadaço](https://pt.wikipedia.org/wiki/Sabada%C3%A7o).
 
-O que pode dar errado?!
+O que pode dar errado, não é mesmo?!
 
 ## Motivação
 
