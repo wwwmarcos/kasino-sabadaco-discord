@@ -6,7 +6,7 @@ O que pode dar errado?!
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="./kassino.mp4" type="video/mp4">
+    <source src="https://github.com/eptaccio/kasino-sabadaco-discord/blob/master/kassino.mp4" type="video/mp4">
   </video>
 </figure>
 
@@ -14,7 +14,7 @@ _Vídeo da participação do Kasino no programa Sabadaço_
 
 ## Motivação
 
-Kasino é algo bem antigo, lá de 2003, e pelo que vi eles ainda estão na [ativa](https://entretenimento.uol.com.br/noticias/redacao/2020/05/27/kasino-do-hit-cant-get-over-anuncia-retorno.htm). Eles são os criadores de um dos hits que mais bombaram na adolescencia de muita gente.
+Kasino é algo bem antigo, lá de 2003, e pelo que vi eles ainda estão na [ativa](https://entretenimento.uol.com.br/noticias/redacao/2020/05/27/kasino-do-hit-cant-get-over-anuncia-retorno.htm). Eles são os criadores de um dos hits que mais bombaram na adolescencia de muita gente, a música "**Can't Get Over**" _(a mesma do vídeo)_.
 
 Ao mesmo tempo eles se tornaram um meme, pois nessa aparição no programa Sabadaço o [Giberto Barros](https://pt.wikipedia.org/wiki/Gilberto_Barros) que era o apresentador do programa os confundiu como atração internacional o que fez esse vídeo viralizar e trazer calor aos nossos corações até hoje.
 
